@@ -29,7 +29,7 @@ resume_header_intro: "<p>Computer Science student with an interest fields of avi
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+# resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide
@@ -37,7 +37,7 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          false
-resume_section_recognition:     true
+resume_section_recognition:     false
 resume_section_links:           true
 resume_section_associations:    true
 # resume_section_interests:       true
